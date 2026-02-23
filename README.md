@@ -53,7 +53,7 @@ Analyse par Produit et Région
 <img width="1118" height="728" alt="Capture d&#39;écran 2026-02-23 010112" src="https://github.com/user-attachments/assets/b86ba380-7eeb-42a3-acc9-4142cf95f0fb" />
 
 
-🛠️ Installation et Utilisation
+## Installation et Utilisation
 Cloner le dépôt.
 
 Ouvrir le fichier .pbix avec Power BI Desktop.
