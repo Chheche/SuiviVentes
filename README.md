@@ -58,4 +58,4 @@ Cloner le dépôt.
 
 Ouvrir le fichier .pbix avec Power BI Desktop.
 
-Rafael BARRETO PANNETIER
+Rafael BARRETO
